@@ -4,21 +4,20 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <h1>OH NO! 😱</h1>
+      <p>
+        I haven't really built a proper website yet
+      </p>
+      <p>
+        If you'd like to get some Oh No! Key Tags, please purchase them on Etsy --> <a href="www.etsy.com/shop/OhNoSmallShop">www.etsy.com/shop/OhNoSmallShop </a>
+      </p>
+      <p>
+        And if you have any questions or you'd like to say hi, reach out to me here - inbox@wilfredocasas.com </p>
+      <p>
+        Cheers, </p>
+      <p>
+        Wilfredo </p>
+    </div >
   );
 }
 
