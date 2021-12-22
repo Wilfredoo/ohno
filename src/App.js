@@ -8,6 +8,7 @@ function App() {
       <p>
         I haven't really built a proper website yet
       </p>
+            <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/205/307/1f7.jpg" />
       <p>
         If you'd like to get some Oh No! Key Tags or Cards, please purchase them on Etsy --> <a target="_blank" href="https://www.etsy.com/shop/OhNoSmallShop">www.etsy.com/shop/OhNoSmallShop </a>
       </p>
